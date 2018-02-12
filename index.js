@@ -19,7 +19,5 @@ let array = [1, 2, 3]
 
 
 doToArray(array, callback){
-  array.forEach(function(callback){
-    
-  })
+  
 }
