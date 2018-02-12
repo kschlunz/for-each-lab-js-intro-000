@@ -12,7 +12,7 @@ function iterate(callback){
 
 
  array.forEach(callback)
-   return iterate;
+   
  }
 
 
