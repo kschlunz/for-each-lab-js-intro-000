@@ -8,14 +8,12 @@ function iterativeLog(array){
 
 
 
-// function iterate(callback){
-// let array = [1, 2, 3]
-//
-//   array.forEach(callback =>{
-//     console.log(array)
-//   })
-//   return iterate;
-// }
+function iterate(callback){
+let array = [1, 2, 3]
+
+ array.forEach(callback)
+   return iterate;
+ }
 
 
 function doToArray(array, callback){
