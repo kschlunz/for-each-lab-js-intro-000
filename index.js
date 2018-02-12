@@ -7,10 +7,10 @@ function iterativeLog(array){
 
 
 
-let array = [1, 2, 3]
+
 function iterate(callback){
 
-
+let array = [1, 2, 3]
  array.forEach(callback)
    
  }
