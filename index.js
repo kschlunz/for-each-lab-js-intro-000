@@ -12,7 +12,7 @@ function iterate(callback){
 
 let array = [1, 2, 3]
  array.forEach(callback)
-   
+
  }
 
 
