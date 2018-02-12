@@ -16,3 +16,10 @@ let array = [1, 2, 3]
   })
   return iterate;
 }
+
+
+doToArray(array, callback){
+  array.forEach(function(callback){
+    
+  })
+}
