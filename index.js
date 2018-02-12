@@ -19,5 +19,7 @@ function iterativeLog(array){
 
 
 function doToArray(array, callback){
-  
+  array.forEach(function(callback){
+    return callback; 
+  })
 }
